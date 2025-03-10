@@ -1,2 +1,2 @@
-# -Adityaraj-Shashikant-Malave-
+Fake News Detection
 Brainwave Matrix Solution
